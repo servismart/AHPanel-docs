@@ -11,15 +11,16 @@ The ideia come from a continuosly quest for the most secure resilent and versati
 It will get its most inspiration from projects like Ovirt for instalation and management and ISP Config for multiserver funcionality.
 
 The first thoughts come with:
--Container based instalation with a "cluster" logic
--VRRP HAProxy in front for 1st layer of asbstraction.
--Ansible/other for component instalation HTTPs/Email/Hosting Storage/Cloud storage from the Container
--Multi/Single HTTPs serving hosts
--Multi/Single Email serving hosts
--Central Storage Based File System with snapshot support and external backup states.
--...
--...
--...
+
+* Container based instalation with a "cluster" logic
+* VRRP HAProxy in front for 1st layer of asbstraction.
+* -Ansible/other for component instalation HTTPs/Email/Hosting Storage/Cloud storage from the Container
+* Multi/Single HTTPs serving hosts
+* Multi/Single Email serving hosts
+* Central Storage Based File System with snapshot support and external backup states.
+* ...
+* ...
+* ...
 
 
  
